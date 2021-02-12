@@ -1,0 +1,141 @@
+{
+    "StatusCode": 6000,
+    "data": {
+        "id": "6d5c9546-275b-4f6f-aad2-d7f1fefe1a06",
+        "institution_type": "college",
+        "courses": [
+            {
+                "name": "Computer Science and Engineering",
+                "short_name": "CS",
+                "id": "3f6c0c10-f0f3-4b6a-bc1e-a6fc64ff1492",
+                "batch": "2020 - 2024",
+                "hm_name": "David Peter",
+                "total_students": 400,
+                "subscribed_students": 153,
+                "expired_students": 17,
+                "not_subscribed_students": 230,
+                "years": [
+                    {
+                        "id": "3284d86a-7505-47ab-a411-82d5e47f0bab",
+                        "name": "First Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "88f867b7-bd6f-4d39-80cd-0c53d5467181",
+                        "name": "Second Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "3450bf6b-2d82-4f43-b62a-bd7d8085c0e2",
+                        "name": "Third Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "9da153c4-7c5e-4222-9bc4-64b55f5b1758",
+                        "name": "Fourth Year",
+                        "institution_type": "college"
+                    }
+                ]
+            },
+            {
+                "name": "Information Technology Engineering",
+                "short_name": "CS",
+                "id": "0970e299-3db2-47fa-91dc-78b6a4824bff",
+                "batch": "2020 - 2024",
+                "hm_name": "Binsu",
+                "total_students": 400,
+                "subscribed_students": 153,
+                "expired_students": 17,
+                "not_subscribed_students": 230,
+                "years": [
+                    {
+                        "id": "edc6c724-98ce-4da5-b205-06277a0fa752",
+                        "name": "First Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "315496f7-4afc-4d34-8286-c3860b405413",
+                        "name": "Second Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "1b24c3bb-29ac-44c1-be3c-8e91990934cb",
+                        "name": "Third Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "22d041a5-a2e2-4907-9995-e89f32f31a49",
+                        "name": "Fourth Year",
+                        "institution_type": "college"
+                    }
+                ]
+            },
+            {
+                "name": "Computer Science and Engineering",
+                "short_name": "CS",
+                "id": "3f6c0c10-f0f3-4b6a-bc1e-a6fc64ff1492",
+                "batch": "2020 - 2024",
+                "hm_name": "David Peter",
+                "total_students": 400,
+                "subscribed_students": 153,
+                "expired_students": 17,
+                "not_subscribed_students": 230,
+                "years": [
+                    {
+                        "id": "3284d86a-7505-47ab-a411-82d5e47f0bab",
+                        "name": "First Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "88f867b7-bd6f-4d39-80cd-0c53d5467181",
+                        "name": "Second Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "3450bf6b-2d82-4f43-b62a-bd7d8085c0e2",
+                        "name": "Third Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "9da153c4-7c5e-4222-9bc4-64b55f5b1758",
+                        "name": "Fourth Year",
+                        "institution_type": "college"
+                    }
+                ]
+            },
+            {
+                "name": "Computer Science and Engineering",
+                "short_name": "CS",
+                "id": "3f6c0c10-f0f3-4b6a-bc1e-a6fc64ff1492",
+                "batch": "2020 - 2024",
+                "hm_name": "David Peter",
+                "total_students": 400,
+                "subscribed_students": 153,
+                "expired_students": 17,
+                "not_subscribed_students": 230,
+                "years": [
+                    {
+                        "id": "3284d86a-7505-47ab-a411-82d5e47f0bab",
+                        "name": "First Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "88f867b7-bd6f-4d39-80cd-0c53d5467181",
+                        "name": "Second Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "3450bf6b-2d82-4f43-b62a-bd7d8085c0e2",
+                        "name": "Third Year",
+                        "institution_type": "college"
+                    },
+                    {
+                        "id": "9da153c4-7c5e-4222-9bc4-64b55f5b1758",
+                        "name": "Fourth Year",
+                        "institution_type": "college"
+                    }
+                ]
+            }
+        ]
+    }
+}

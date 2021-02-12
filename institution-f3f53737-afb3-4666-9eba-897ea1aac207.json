@@ -1,0 +1,70 @@
+{
+    "StatusCode": 6000,
+    "data": {
+        "id": "f3f53737-afb3-4666-9eba-897ea1aac207",
+        "institution_type": "school",
+        "courses": [
+            {
+                "name": "Lower Primary",
+                "short_name": "LP",
+                "id": "6a26cc1a-d3d1-4654-9177-2cfd37e5a3a5",
+                "batch": "2021 - 2022",
+                "hm_name": "Deepa Menon",
+                "total_students": 200,
+                "subscribed_students": 53,
+                "expired_students": 17,
+                "not_subscribed_students": 130,
+                "years": [
+                    {
+                        "id": "02c929f7-e543-4b83-9894-6746ed390767",
+                        "name": "1",
+                        "institution_type": "school"
+                    },
+                    {
+                        "id": "e9a42dfa-47a9-4ee7-95f3-5f4a6908b3aa",
+                        "name": "2",
+                        "institution_type": "school"
+                    },
+                    {
+                        "id": "62aac267-efb1-4100-92db-563744728d76",
+                        "name": "3",
+                        "institution_type": "school"
+                    },
+                    {
+                        "id": "50e3f531-8f91-44ac-a197-8156c30991f0",
+                        "name": "4",
+                        "institution_type": "school"
+                    }
+                ]
+            },
+            {
+                "name": "Upper Primary",
+                "short_name": "UP",
+                "id": "a465887b-6c30-4679-8cd8-7ed882dd2bb9",
+                "batch": "2021 - 2022",
+                "hm_name": "Beena Antony",
+                "total_students": 200,
+                "subscribed_students": 53,
+                "expired_students": 17,
+                "not_subscribed_students": 130,
+                "years": [
+                    {
+                        "id": "81b6eb45-2513-4cee-8d83-110efbd44771",
+                        "name": "5",
+                        "institution_type": "school"
+                    },
+                    {
+                        "id": "77351de3-6cfb-48ed-9c63-4d818cf1a932",
+                        "name": "6",
+                        "institution_type": "school"
+                    },
+                    {
+                        "id": "e2bfb4e2-3a7c-421a-8113-c64518bf1a05",
+                        "name": "7",
+                        "institution_type": "school"
+                    }
+                ]
+            }
+        ]
+    }
+}
