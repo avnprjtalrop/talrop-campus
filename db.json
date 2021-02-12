@@ -26,7 +26,7 @@
             "photo": "https://dzzxaewyj99fb.cloudfront.net/media/campuses/images/Sree%20Vivekananda%20Padana%20Kendram%20Arts%20%26%20Science%20College/SREE_VIVEKANANDA__SL6lKSE.jpg"
         }
     ],
-    "institution/6d5c9546-275b-4f6f-aad2-d7f1fefe1a06": {
+    "institution-6d5c9546-275b-4f6f-aad2-d7f1fefe1a06": {
         "id": "6d5c9546-275b-4f6f-aad2-d7f1fefe1a06",
         "institution_type": "college",
         "courses": [
@@ -164,7 +164,7 @@
             }
         ]
     },
-    "institution/f3f53737-afb3-4666-9eba-897ea1aac207": {
+    "institution-f3f53737-afb3-4666-9eba-897ea1aac207": {
         "id": "f3f53737-afb3-4666-9eba-897ea1aac207",
         "institution_type": "school",
         "courses": [
