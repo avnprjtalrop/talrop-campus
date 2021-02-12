@@ -1,0 +1,29 @@
+{
+    "institutions": [
+        {
+            "id": "6d5c9546-275b-4f6f-aad2-d7f1fefe1a06",
+            "name": "School of Engineering",
+            "photo": "https://dzzxaewyj99fb.cloudfront.net/media/campuses/images/Sree%20Vivekananda%20Padana%20Kendram%20Arts%20%26%20Science%20College/SREE_VIVEKANANDA__SL6lKSE.jpg"
+        },
+        {
+            "id": "ba33bb29-da57-4645-a72c-dd5495804337",
+            "name": "School of Legal Studies",
+            "photo": "https://dzzxaewyj99fb.cloudfront.net/media/campuses/images/Sree%20Vivekananda%20Padana%20Kendram%20Arts%20%26%20Science%20College/SREE_VIVEKANANDA__SL6lKSE.jpg"
+        },
+        {
+            "id": "c7c602c3-156c-4704-8914-c58ba9bfe03b",
+            "name": "School of Management Studies",
+            "photo": "https://dzzxaewyj99fb.cloudfront.net/media/campuses/images/Sree%20Vivekananda%20Padana%20Kendram%20Arts%20%26%20Science%20College/SREE_VIVEKANANDA__SL6lKSE.jpg"
+        },
+        {
+            "id": "f3f53737-afb3-4666-9eba-897ea1aac207",
+            "name": "St Joseph's School",
+            "photo": "https://dzzxaewyj99fb.cloudfront.net/media/campuses/images/Sree%20Vivekananda%20Padana%20Kendram%20Arts%20%26%20Science%20College/SREE_VIVEKANANDA__SL6lKSE.jpg"
+        },
+        {
+            "id": "f6ceba44-f207-4b2a-931d-0e64e4a312ef ",
+            "name": "Department of physics",
+            "photo": "https://dzzxaewyj99fb.cloudfront.net/media/campuses/images/Sree%20Vivekananda%20Padana%20Kendram%20Arts%20%26%20Science%20College/SREE_VIVEKANANDA__SL6lKSE.jpg"
+        }
+    ]
+}
