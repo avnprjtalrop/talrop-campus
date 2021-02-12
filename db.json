@@ -230,5 +230,36 @@
                 ]
             }
         ]
-    }
+    },
+    "campus-institutions-courses-years-3284d86a-7505-47ab-a411-82d5e47f0bab": {
+        "id": "c1a7f5a5-f2b1-490e-a6fe-20c4a3b29768",
+        "institution_type": "college",
+        "total_students": 100,
+        "subscribed_students": 50,
+        "expired_students": 25,
+        "not_subscribed_students": 25,
+        "divisions": [
+            {
+                "name": "1st Semester",
+                "id": "584cd773-e002-4497-a6ff-ac89372de1d5",
+                "subscribed_students": 25,
+                "expired_students": 15,
+                "not_subscribed_students": 10,
+                "total_students": 50,
+                "class_teacher": "Gopika",
+                "institution_type": "college"
+            },
+            {
+                "name": "2nd Semester",
+                "id": "e9c1ce33-31e1-443b-9c35-25566adcec05",
+                "subscribed_students": 25,
+                "expired_students": 10,
+                "not_subscribed_students": 15,
+                "total_students": 50,
+                "class_teacher": "Binu",
+                "institution_type": "college"
+            }
+        ]
+    },
+    "students": []
 }
